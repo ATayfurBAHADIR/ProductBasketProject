@@ -3,6 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9E6C77B6-E46C-4B4F-90B6-FB8F44200FB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{BB6A0FFA-8DA9-4975-887E-E4FE3A52CA77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{3DD14A7F-76A2-4829-9679-691547594923}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\ProductBasket\ReadMe.txt = ..\..\..\Desktop\ProductBasket\ReadMe.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
